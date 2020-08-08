@@ -98,13 +98,13 @@
   properties  
     
   
-   <bean>
+    <bean>
     <property name="">
     <props>
     
     
-     <prop key="java">Karun</prop>
-     <prop key="python">Ahuja</prop>
+     <prop.key="java">Karun</prop>
+     <prop.key="python">Ahuja</prop>
     
     
     </props>

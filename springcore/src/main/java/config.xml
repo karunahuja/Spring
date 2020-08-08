@@ -39,5 +39,78 @@
     
     </bean>
     
-
+  List  
+    <bean>
+    <property name="">
+    <list>
+    <value>10</value>
+    
+    <value>1023</value>
+    
+    <value>10222</value>
+    
+    
+    <value>1043</value>
+    
+    
+    </list>
+    
+    </property>
+    
+    </bean>
+    
+    Set  
+    <bean>
+    <property name="">
+    <set>
+    <value>10</value>
+    
+    <value>1023</value>
+    
+    <value>10222</value>
+    
+    
+    <value>1043</value>
+    
+    
+    </set>
+    
+    </property>
+    
+    </bean>
+    
+    
+    Map
+   
+    <bean>
+    <property name="">
+    <map>
+    <entry key="java" value="2month"/>
+     <entry key="python" value="1month"/>
+    
+    
+    </map>
+    
+    </property>
+    
+    </bean>
+    
+  properties  
+    
+  
+   <bean>
+    <property name="">
+    <props>
+    
+    
+     <prop key="java">Karun</prop>
+     <prop key="python">Ahuja</prop>
+    
+    
+    </props>
+   
+  </property>
+    
+</bean>
+    
 </beans>
