@@ -33,11 +33,5 @@
     
     </bean>
     
- 
-        <bean class="com.springcore.student" name="student3" p:studentId="24234" p:studentName="Ahuja" p:studentAddress="Sangrur">
-    	
-    
-    </bean>
-    
 
 </beans>
