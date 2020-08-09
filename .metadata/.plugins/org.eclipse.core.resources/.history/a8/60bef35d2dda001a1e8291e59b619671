@@ -15,7 +15,6 @@ context.registerShutdownHook();
 
 Pepsi p1=(Pepsi) context.getBean("p1");
 System.out.println(p1);
-
 Example ex=(Example) context.getBean("example");
 
 System.out.println(ex);

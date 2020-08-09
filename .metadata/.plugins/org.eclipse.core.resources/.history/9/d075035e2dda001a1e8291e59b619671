@@ -1,0 +1,29 @@
+package com.springcore.lifecycle;
+
+public class Example {
+String subject;
+
+public Example() {
+	super();
+	// TODO Auto-generated constructor stub
+}
+
+public Example(string subject) {
+	super();
+	this.subject = subject;
+}
+
+@Override
+public String toString() {
+	return "Example [getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()=" + super.toString()
+			+ "]";
+}
+
+public string getSubject() {
+	return subject;
+}
+
+public void setSubject(string subject) {
+	this.subject = subject;
+}
+}
