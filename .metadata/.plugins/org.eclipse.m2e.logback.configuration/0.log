@@ -1003,3 +1003,13 @@
 2020-08-10 17:57:21,699 [Worker-149: Launching Test (8)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\test\resources
 2020-08-10 18:12:42,572 [Worker-150: Launching Test (8)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-10 18:12:42,573 [Worker-150: Launching Test (8)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\main\resources
+2020-08-10 18:12:42,575 [Worker-150: Launching Test (8)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-10 18:12:42,575 [Worker-150: Launching Test (8)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\test\resources
+2020-08-10 20:21:27,826 [Worker-134: Launching Test (8)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-10 20:21:27,829 [Worker-134: Launching Test (8)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\main\resources
+2020-08-10 20:21:27,833 [Worker-134: Launching Test (8)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-10 20:21:27,833 [Worker-134: Launching Test (8)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\test\resources
+2020-08-10 20:22:28,506 [Worker-155: Launching Test (8)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-10 20:22:28,506 [Worker-155: Launching Test (8)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\main\resources
+2020-08-10 20:22:28,508 [Worker-155: Launching Test (8)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-10 20:22:28,509 [Worker-155: Launching Test (8)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\test\resources

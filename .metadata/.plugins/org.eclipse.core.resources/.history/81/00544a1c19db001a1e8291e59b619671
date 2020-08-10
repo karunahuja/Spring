@@ -14,7 +14,7 @@ public class Demo {
 	@Value("#{T(java.lang.Math).sqrt(25)}")
 	private double z;
 	
-	@Value("#{8>3}")
+	
 	private boolean isActive;
 	
 	
