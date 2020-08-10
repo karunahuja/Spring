@@ -15,8 +15,6 @@ public class Test {
 		
 		System.out.println(student.hashCode());
 		
-		Student student2=context.getBean("student",Student.class);
-		System.out.println(student2.hashCode());
 	}
 
 }
