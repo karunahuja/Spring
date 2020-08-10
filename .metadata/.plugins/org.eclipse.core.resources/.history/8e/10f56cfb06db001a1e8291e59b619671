@@ -10,16 +10,6 @@ public class Demo {
 	
 	@Value("#{2+3+6}")
 	private int y;
-	
-	@Value("#{T(java.lang.Math).sqrt(25)}")
-	private double z;
-	
-	public double getZ() {
-		return z;
-	}
-	public void setZ(double z) {
-		this.z = z;
-	}
 	public int getX() {
 		return x;
 	}
@@ -34,7 +24,7 @@ public class Demo {
 	}
 	@Override
 	public String toString() {
-		return "Demo [x=" + x + ", y=" + y + ", z=" + z + "]";
+		return "Demo [x=" + x + ", y=" + y + "]";
 	}
 	
 	
