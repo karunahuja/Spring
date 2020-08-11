@@ -1,7 +1,5 @@
 package com.spring.jdbc;
 
-import java.util.List;
-
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.jdbc.core.JdbcTemplate;
@@ -27,11 +25,10 @@ public class App {
 //		student.setCity("Lucknow");
 //		
 		
-		List<Student> students=studentDao.getAllStudents();
+		Student student=studentDao.getStudent(222);
 		
-		for(Student s:students) {
-			System.out.println(s);
-		}
 		
+		
+		System.out.println(student);
 	}
 }
