@@ -47,7 +47,7 @@ String query="insert into student(id,name,city) values(?,?,?)";
 
 	public Student getStudent(int studentId) {
 		// TODO Auto-generated method stub
-		String query="select * from student where id=?";
+		String query="select * from studeny where id=?";
 		RowMapper<Student> rowMapper=new RowMapperImpl();
 		Student student=this.jdbcTemplate.queryForObject(query,rowMapper,studentId);
 		return student;

@@ -19,16 +19,14 @@ public class App {
 		StudentDao studentDao=context.getBean("studentDao",StudentDao.class);
 		
 		
-//		Student student =new Student();
-//		student.setId(222);
-//		student.setName("Raj");
-//		student.setCity("Lucknow");
-//		
-		
-		Student student=studentDao.getStudent(222);
+		Student student =new Student();
+		student.setId(222);
+		student.setName("Raj");
+		student.setCity("Lucknow");
 		
 		
+		int result=studentDao.delete(666);
 		
-		System.out.println(student);
+		System.out.println("student added"+result);
 	}
 }
