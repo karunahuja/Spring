@@ -20,12 +20,12 @@ public class App {
 		
 		
 		Student student =new Student();
-		student.setId(222);
-		student.setName("Raj");
+		student.setId(666);
+		student.setName("John");
 		student.setCity("Lucknow");
 		
 		
-		int result=studentDao.change(student);
+		int result=studentDao.insert(student);
 		
 		System.out.println("student added"+result);
 	}

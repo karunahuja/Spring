@@ -20,7 +20,7 @@ public class App {
 		
 		
 		Student student =new Student();
-		student.setId(222);
+		student.setId(222));
 		student.setName("Raj");
 		student.setCity("Lucknow");
 		

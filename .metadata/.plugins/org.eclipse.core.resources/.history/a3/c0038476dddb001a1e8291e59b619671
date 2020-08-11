@@ -23,16 +23,6 @@ String query="insert into student(id,name,city) values(?,?,?)";
 	public void setJdbcTemplate(JdbcTemplate jdbcTemplate) {
 		this.jdbcTemplate = jdbcTemplate;
 	}
-
-	public int change(Student student) {
-		// TODO Auto-generated method stub
-		String query="update student set name=?,city=? where id=?";
-		int result=this.jdbcTemplate.update(query,student.getName(),student.getCity(),student.getId());
-		return result;
-		
-		
-	
-	}
 }
 	
 
