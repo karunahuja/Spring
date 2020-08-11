@@ -25,7 +25,7 @@ public class App {
 		student.setCity("Lucknow");
 		
 		
-		int result=studentDao.delete(666);
+		int result=studentDao.change(student);
 		
 		System.out.println("student added"+result);
 	}
