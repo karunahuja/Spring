@@ -1239,3 +1239,25 @@
 2020-08-11 22:18:33,094 [Worker-226: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\main\resources
 2020-08-11 22:18:33,094 [Worker-226: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-11 22:18:33,095 [Worker-226: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\test\resources
+2020-08-12 12:05:21,426 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:05:21,426 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\main\resources
+2020-08-12 12:05:21,428 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:05:21,512 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\test\resources
+2020-08-12 12:15:07,813 [Worker-234: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-12 12:15:22,447 [Worker-234: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcore:springcore:0.0.1-SNAPSHOT @ C:\Users\Tarun Ahuja\eclipse-workspace\springcore\pom.xml.
+2020-08-12 12:15:26,411 [Worker-234: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcore/src/main/java
+2020-08-12 12:15:26,412 [Worker-234: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcore/src/test/java
+2020-08-12 12:15:29,606 [Worker-234: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 21 sec
+2020-08-12 12:15:35,216 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:15:35,217 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\main\resources
+2020-08-12 12:15:35,220 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:15:35,220 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\test\resources
+2020-08-12 12:17:00,325 [Worker-240: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-12 12:17:04,273 [Worker-240: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcore:springcore:0.0.1-SNAPSHOT @ C:\Users\Tarun Ahuja\eclipse-workspace\springcore\pom.xml.
+2020-08-12 12:17:07,920 [Worker-240: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcore/src/main/java
+2020-08-12 12:17:07,921 [Worker-240: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcore/src/test/java
+2020-08-12 12:17:08,425 [Worker-240: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2020-08-12 12:17:11,412 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:17:11,413 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\main\resources
+2020-08-12 12:17:11,468 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 12:17:11,468 [Worker-283: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tarun Ahuja\eclipse-workspace\springcore\src\test\resources
